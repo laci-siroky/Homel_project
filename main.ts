@@ -7,5 +7,6 @@ basic.forever(function () {
     basic.showString("Hello!")
     basic.showIcon(IconNames.Ghost)
     basic.pause(5000)
+    basic.showIcon(IconNames.Heart)
     basic.clearScreen()
 })
