@@ -1,4 +1,5 @@
 basic.showIcon(IconNames.House)
+basic.showIcon(IconNames.Triangle)
 basic.forever(function () {
     music.playMelody("C5 B A G D F C C ", 120)
     basic.showIcon(IconNames.Heart)
